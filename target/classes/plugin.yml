@@ -1,0 +1,14 @@
+name: CustomSellCommand
+main: dev.customsell.CustomSellCommand
+version: 1.0
+api-version: 1.21
+author: CustomSellCommand
+commands:
+  sell:
+    description: Open the crops sell GUI
+    usage: /sell
+    permission: customsell.open
+permissions:
+  customsell.open:
+    description: Allows opening /sell
+    default: true

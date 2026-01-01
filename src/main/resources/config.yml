@@ -1,0 +1,43 @@
+gui:
+  title: "&7ᴘʟᴀᴄᴇ ɪᴛᴇᴍꜱ ɪɴ ʜᴇʀᴇ ᴛᴏ ꜱᴇʟʟ"
+
+# message templates
+messages:
+  not_sellable: "&cThose items cannot be sold. Do /shop crops for a list of what items can be sold."
+  you_sold_prefix: "&aYou sold:"
+
+# material given as payout (default NETHERITE_SCRAP)
+payout-material: "NETHERITE_SCRAP"
+
+# prices: the "amount" is how many of the material are required for ONE payout item.
+prices:
+  sugar_cane:
+    material: "SUGAR_CANE"
+    amount: 64
+  bamboo:
+    material: "BAMBOO"
+    amount: 128
+  cactus:
+    material: "CACTUS"
+    amount: 48
+  kelp:
+    material: "KELP"
+    amount: 128
+  melon:
+    material: "MELON"
+    amount: 48
+  pumpkin:
+    material: "PUMPKIN"
+    amount: 48
+  sea_pickle:
+    material: "SEA_PICKLE"
+    amount: 128
+  crimson_fungus:
+    material: "CRIMSON_FUNGUS"
+    amount: 128
+  warped_fungus:
+    material: "WARPED_FUNGUS"
+    amount: 128
+  sweet_berries:
+    material: "SWEET_BERRIES"
+    amount: 64
