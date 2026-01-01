@@ -3,6 +3,8 @@
 This plugin exists and that’s about the nicest thing that can be said about it LOL
 This plugin doesnt work LOL, dont waste ur time trying to fix it
 
+Note that "the truth" also applies to this plugin since its the same story over and over, if you want me to send any jar proving what im saying dm me.
+
 ## The truth..
 The compiled JAR contained **a random obfuscated folder**, such as:
 
