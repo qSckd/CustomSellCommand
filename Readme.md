@@ -10,9 +10,9 @@ This plugin doesnt work LOL, dont waste ur time trying to fix it
 Voltrex decided to leak CrystalCore files, just because "we are using your custom plugins" (this is one of the custom plugins hes talmbout)
 So yeah why not just let him look like a clown by showing everyone how he uses aI generated code and skidded plugins.
 
-https://media.discordapp.net/attachments/1452522657588314173/1456073334277013584/image.png?ex=69570977&is=6955b7f7&hm=98d6b604b72e34652fed6e3c11452abe8b57e04a9178bc41bf8cb222102fc420&=&format=webp&quality=lossless
-https://media.discordapp.net/attachments/1452522657588314173/1456070667005853770/image.png?ex=695706fb&is=6955b57b&hm=087253e4efdc8e85227e3924439c5576f123b65dab9017a2cd25dcf9426cd70c&=&format=webp&quality=lossless
-https://media.discordapp.net/attachments/1224376541367242873/1456079429624270960/image.png?ex=69570f24&is=6955bda4&hm=52f3f7f6dd7b8b57e3c226f8199618887d3f791539c163f9355ed2e6f63dc9e3&=&format=webp&quality=lossless
+<img width="1240" height="158" alt="image" src="https://github.com/user-attachments/assets/3afee1ad-f52d-45c0-90cd-5928338aef87" />
+<img width="1114" height="700" alt="image" src="https://github.com/user-attachments/assets/e0ad17a5-0dd2-40c8-86bc-bd1392c2660c" />
+<img width="597" height="541" alt="image" src="https://github.com/user-attachments/assets/0d658e61-ed4f-434b-bdf0-66f2edfcdb66" />
 
 ---
 
